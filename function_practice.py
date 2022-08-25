@@ -18,5 +18,5 @@ def eat_lunch(list):
 
 
 hello()
-pack("sandwhich", "soda", "Banana")
-eat_lunch(["sandwich", "chips", "banana", "chwey bar", "fruti snacks"])
+pack("sandwich", "soda", "Banana")
+eat_lunch(["sandwich", "chips", "banana", "chwey bar", "fruity snacks"])
